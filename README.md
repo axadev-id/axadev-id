@@ -7,7 +7,7 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
 - 🎓 Mahasiswa / Pengembang — Teknik Informatika
 - 💼 Peran: Web Developer (Backend), Data Analyst
 - 🤖 Keahlian ML/DL: machine learning, deep learning (implementasi model & evaluasi)
-- 📫 Kontak: aqsafajrul@gmail.com • [LinkedIn](https://www.linkedin.com/in/fajrul-ramadhana-aqsa) • [GitHub](https://github.com/axadev-id)
+- 📫 Kontak: aqsafajrul@gmail.com • [LinkedIn](https://www.linkedin.com/in/fajrul-ramadhana-aqsa-b7b729392) • [GitHub](https://github.com/axadev-id)
 
 ## Keahlian
 - Bahasa: Python, JavaScript/TypeScript, Java
