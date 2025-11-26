@@ -21,18 +21,5 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
    - Peran: penelitian & implementasi model, evaluasi performa, preprocessing dataset
    - Teknologi: Python, scikit-learn, fitur SRM, SVM
 
-## Statistik GitHub
-
-<div align="center">
-
-### 🔥 Aktivitas GitHub
-<img src="https://streak-stats.demolab.com?user=axadev-id&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-### 📊 Statistik
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=axadev-id&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-### 🧠 Bahasa Pemrograman
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=tokyonight" alt="Top Langs"/>
-
-</div>
+## Statistik & Badges ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axadev-id&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
