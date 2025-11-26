@@ -23,11 +23,16 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
 
 ## Statistik GitHub
 
-![summary](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/0-profile-details.svg)
+<div align="center">
 
-![repos-per-language](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![most-commit-language](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/2-most-commit-language.svg)
+### 🔥 Aktivitas GitHub
+<img src="https://streak-stats.demolab.com?user=axadev-id&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![stats](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/3-stats.svg)
-![productive-time](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/4-productive-time.svg)
+### 📊 Statistik
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=axadev-id&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+
+### 🧠 Bahasa Pemrograman
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+</div>
 
