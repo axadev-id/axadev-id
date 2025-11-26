@@ -25,8 +25,6 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
 ## Statistik & Badges
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axadev-id&show_icons=true&theme=radical)
-
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical)
 
 
