@@ -21,12 +21,13 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
    - Peran: penelitian & implementasi model, evaluasi performa, preprocessing dataset
    - Teknologi: Python, scikit-learn, fitur SRM, SVM
 
-## Statistik & Badges
+## Statistik GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=axadev-id&show_icons=true&theme=radical)
+![summary](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/0-profile-details.svg)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical)
+![repos-per-language](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/1-repos-per-language.svg)
+![most-commit-language](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/2-most-commit-language.svg)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![stats](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/3-stats.svg)
+![productive-time](https://raw.githubusercontent.com/axadev-id/axadev-id/main/profile-summary-card-output/default/4-productive-time.svg)
+
