@@ -21,14 +21,12 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
    - Peran: penelitian & implementasi model, evaluasi performa, preprocessing dataset
    - Teknologi: Python, scikit-learn, fitur SRM, SVM
 
-
 ## Statistik & Badges
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=axadev-id&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=axadev-id&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical)
 
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
