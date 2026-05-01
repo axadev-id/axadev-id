@@ -26,12 +26,12 @@ Saya seorang Web Developer (Backend), Data Analyst, dan praktisi Machine Learnin
 <div align="center">
 
 <!-- Grafik Aktivitas (diperkecil) -->
-<img src="https://stats.vercel.app/api/top-langs/?username=axadev-id" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=axadev-id&theme=tokyo-night&hide_border=true" width="95%" />
 
 <br/>
 
 <!-- Top Languages (dibesarkan sedikit agar seimbang) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical" width="55%"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axadev-id&layout=compact&theme=radical" width="55%" />
 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white) 
